@@ -23,7 +23,7 @@ I started learning in March 2017, while working a full-time job. Before that I h
 
 ### Where do you learn new skills?
 
-Mostly Codingphase, some courses on Udemy, and online tutorials.
+Mostly Codingphase, some courses on Udemy, Freecodecamp and online tutorials.
 
 ### What do you love the most about programming?
 
@@ -35,7 +35,7 @@ Sometimes it can be hard to grasp the concepts and see the big-picture when it c
 
 ### Are you currently working as a developer?
 
-Not yet, but I've been on several interviews.
+Not yet, but I've been on several interviews, and still applying for jobs.
 
 ### What's your favorite stack or type of applications?
 
@@ -43,7 +43,7 @@ So far I love using React for the frontend.
 
 ### What's a technology or language or skill you wish to learn in the future?
 
-I'd like to go deeper into React and its new and advanced features like GraphQL. I'd also like to learn Ruby on Rails to use for my own projects (e.g. niche websites).
+I'd like to go deeper into React and learn other new things like GraphQL. I'd also like to learn Ruby on Rails to use for my own projects (e.g. niche websites).
 
 ### Where do you see yourself in 5 years?
 
