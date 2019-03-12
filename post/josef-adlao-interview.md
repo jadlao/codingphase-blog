@@ -3,9 +3,9 @@ title: "Developer Interview: Josef Adlao"
 date: "2019-03-11"
 category: "Interview"
 tags: design, development
-cover_image: "/img/blog/interview-josef-adlao.png"
+cover_image: "/img/blog/josef-adlao-interview.jpg"
 author: "Josef Adlao"
-author_image: "/img/blog/authors/josef-adlao.png"
+author_image: "/img/blog/authors/full-name.png"
 author_link: "https://www.josefadlao.com"
 ---
 
